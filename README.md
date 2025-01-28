@@ -4,7 +4,9 @@ Hi, I'm **Sasanth NS**, a passionate **Data Analyst** with over **2+ years** of 
 - 💼 **Currently:** Freelancing as a Data Analyst, optimizing processes and delivering impactful data solutions.  
 
 ## Let's Connect 🌐  
-- **Email:** [sasanthnsasi@gmail.com](mailto:sasanthnsasi@gmail.com)  
-- **GitHub:** [github.com/SASANTHNS](https://github.com/SASANTHNS)  
-- **LinkedIn:** [linkedin.com/in/sasanth-ns](https://www.linkedin.com/in/sasanth-ns)  
-- **Tableau Public Profile:** [Tableau Dashboards](https://public.tableau.com/app/profile/sasanthns/vizzes)  
+ 
+
+[![Email](https://img.shields.io/badge/Email-sasanthnsasi@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:sasanthnsasi@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-SASANTHNS-black?style=flat-square&logo=github)](https://github.com/SASANTHNS)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sasanth--NS-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sasanth-ns)  
+[![Tableau](https://img.shields.io/badge/Tableau-Portfolio-orange?style=flat-square&logo=tableau)](https://public.tableau.com/app/profile/sasanthns/vizzes)  
