@@ -2,10 +2,6 @@
 Hi, I'm **Sasanth NS**, a passionate **Data Analyst** with over **2+ years** of experience in **SQL, Python, Tableau, and Advanced Excel**. I specialize in transforming raw data into actionable insights through **data cleaning, modeling, and visualization**, enabling businesses to make data-driven decisions effectively.  
 
 - 💼 **Currently:** Freelancing as a Data Analyst, optimizing processes and delivering impactful data solutions.  
-- 🎓 **Education:**  
-  - **B.Sc in Data Science and Applications** - IIT Madras (2024)  
-  - **Commerce Bachelor** - Mahatma Gandhi University (2012-2015)   
-
 
 ## Let's Connect 🌐  
 - **Email:** [sasanthnsasi@gmail.com](mailto:sasanthnsasi@gmail.com)  
