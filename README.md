@@ -1,7 +1,7 @@
 # About Me 👋  
 Hi, I'm **Sasanth NS**, a passionate **Data Analyst** with over **2+ years** of experience in **SQL, Python, Tableau, and Advanced Excel**. I specialize in transforming raw data into actionable insights through **data cleaning, modeling, and visualization**, enabling businesses to make data-driven decisions effectively.  
 
-- 💼 **Currently:** Freelancing as a Data Analyst, optimizing processes and delivering impactful data solutions.  
+- 💼 **Currently:** As a Data Analyst, optimizing processes and delivering impactful data solutions.  
 
 ## Let's Connect 🌐  
  
